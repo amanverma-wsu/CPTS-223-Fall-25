@@ -1,0 +1,51 @@
+ls,"Lists files and directories in the current folder",2
+cd,"Changes the current working directory",2
+mkdir,"Creates a new directory",3
+rmdir,"Removes an empty directory",3
+rm,"Removes files and directories",4
+cp,"Copies files or directories from source to destination",3
+mv,"Moves or renames files and directories",3
+pwd,"Prints the current working directory path",2
+find,"Searches for files and directories based on criteria",5
+grep,"Searches text patterns within files",4
+cat,"Displays the contents of a file",2
+less,"Views file contents page by page",3
+head,"Displays the first few lines of a file",3
+tail,"Displays the last few lines of a file",3
+touch,"Creates empty files or updates timestamps",2
+chmod,"Changes file and directory permissions",4
+chown,"Changes file and directory ownership",4
+ps,"Displays currently running processes",3
+top,"Shows real-time system processes and resource usage",4
+kill,"Terminates processes by process ID",4
+killall,"Terminates processes by name",4
+df,"Displays filesystem disk space usage",3
+du,"Shows directory space usage",3
+free,"Displays memory usage information",3
+uname,"Shows system information",2
+whoami,"Displays current username",1
+date,"Shows or sets the system date",2
+history,"Shows command history",2
+which,"Locates executable files in PATH",3
+whereis,"Locates binary, source, and manual files",3
+man,"Displays manual pages for commands",3
+info,"Shows detailed command documentation",3
+tar,"Archives and extracts files",5
+gzip,"Compresses files using gzip algorithm",4
+gunzip,"Decompresses gzip files",4
+zip,"Creates compressed zip archives",4
+unzip,"Extracts files from zip archives",4
+wget,"Downloads files from web servers",4
+curl,"Transfers data from or to servers",4
+ssh,"Connects to remote systems securely",4
+scp,"Copies files securely between hosts",4
+rsync,"Synchronizes files and directories efficiently",5
+crontab,"Manages scheduled tasks",5
+systemctl,"Controls systemd services",5
+service,"Controls system services",4
+mount,"Mounts filesystems",4
+umount,"Unmounts filesystems",4
+fdisk,"Manages disk partitions",5
+lsblk,"Lists block devices",3
+lsusb,"Lists USB devices",3
+lspci,"Lists PCI devices",3
