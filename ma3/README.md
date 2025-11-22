@@ -2,7 +2,6 @@
 
 **Course:** WSU CPTS 223  
 **Assignment:** MA3 - Shortest Path Algorithms  
-**Date:** November 21, 2025
 
 ## What I Built
 
