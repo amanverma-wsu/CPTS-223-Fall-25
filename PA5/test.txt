@@ -1,0 +1,14 @@
+status
+emergency "Alice Smith" 9 Pullman
+emergency "Bob Johnson" 5 Pullman
+emergency "Carol White" 7 Moscow
+emergency "David Brown" 10 Colfax
+status
+hospital close Pullman
+status
+emergency "Eve Davis" 8 Pullman
+treat Moscow
+treat Moscow
+hospital open Pullman
+status
+exit
