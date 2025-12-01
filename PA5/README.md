@@ -22,9 +22,6 @@ make clean
 - `main.cpp` - REPL implementation with all command handlers
 - `Makefile` - Build configuration
 - `README.md` - This file
-- `walkthrough.mp4` - Video demonstration (uploaded to Canvas)
-- `repo.txt` - GitHub repository URL
-
 ---
 
 ## Design Decisions
